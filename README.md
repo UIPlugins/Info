@@ -22,7 +22,7 @@ Of course you can! If you want your plugin to be added to our Organization, you 
 ### Official UIPlugins Discord
 We have an official discord channel hosted under the PiggyTester's official discord channel.
 
-[![invite-modal.png](https://projects.aericio.net/discord/piggytesters/invite-modal.png)](https://discord.gg/t95j8tC)
+[![invite-modal.png](https://projects.aericio.net/discord/piggytesters/invite-modal-curved-glow.png)](https://discord.gg/t95j8tC)
 
 ### Organization Administrators
 [Administrators](https://github.com/orgs/UIPlugins/teams/administrators) oversee all operations in the Organization and have full access to the Organization itself.
