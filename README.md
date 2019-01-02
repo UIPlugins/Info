@@ -2,7 +2,8 @@
 1. Use FormsAPI (for PocketMine-MP UI Plugins)
 2. Use MIT License for the plugins.
 3. Be as obnoxious and ridiculous as possible
-4. Have fun :joy:
+4. Submit & get it approved on Poggit
+5. Have fun :joy:
 
 # Code Style:
 Of course, we have to keep things clean so that it doesn't look like turd for other developers.
