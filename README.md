@@ -11,8 +11,9 @@ Of course you can! If you want your plugin to be added to our Organization, you 
       - https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
     3. Additionally, plugin must also comply with Poggit's PQRS-1.2 quality standards.
       - https://github.com/poggit/support/blob/master/pqrs.md
-    4. Plugin must use libFormAPI.
-      - In the future, we will consider using a different library [#1]
+    4. Plugin must use libFormAPI (virion)
+      - We recommend CaptchaAPI (virion) by CortexPE if you want to add Captchas to your plugin.
+      - In the future, we will consider using a different forms library [#1]
     5. Plugin should attempt to be as obnoxious and ridiculous as possible.
     6. Finally, have fun! Make this the most retarded thing you've written.
     -- AFTER APPROVAL --
@@ -48,7 +49,8 @@ If the Quality Assurance Team (QAT) deems that a plugin created by a member of t
 If no improvements are made within '7' days, then the following events may occur:
     - revocation of the user's status as a member of the Organization.
     - removal of the user's repositories from the Organization OR
-    - transferral of the user's repositories on the Organization to their own account. 
+    - transferral of the user's repositories on the Organization to their own account.
+Inactive users will also be revoked of their permissions.
 ```
 
-<br>*Revision 1.1 - Janurary 1st, 2019.*
+<br>*Revision 1.2 - Janurary 1st, 2019.*
