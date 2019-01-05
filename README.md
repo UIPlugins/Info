@@ -2,15 +2,15 @@
 It seems that you've stumbled upon this glorious organization. What is this all about, you ask? Well, it's part of a movement started by the great folks at the [pmmp discord](https://discord.gg/XDugAkJ) channel to make the most useless, yet gorgeous, plugins using forms. We created this repository to push forward this movement in formifying everything, and anything, possible, even if it doesn't seem practical.
 
 ### Woah, this sounds great! Could I also contribute to this project?
-Of course you can! If you want your plugin to be added to our Organization, you can create an issue in this repository requesting such. However, please ensure that you comply with our Contribution Guidelines, and subsequently PSR-2 and PQRS-1.2 standards, which is shown in the following section.
+Of course you can! If you want your plugin to be added to our Organization, you can create an issue in this repository requesting such. However, please ensure that you comply with our Contribution Guidelines, and subsequently PSR-2 standards and Poggit's Plugin Submission Rules, which is shown in the following section.
 
 ### Contribution Guidelines
 ```
     1. Plugin must be licensed under MIT.
     2. Plugin must comply with PSR-2 coding standards, however minor violations are allowed.
       - https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
-    3. Additionally, plugin must also comply with Poggit's PQRS-1.2 quality standards.
-      - https://github.com/poggit/support/blob/master/pqrs.md
+    3. Additionally, plugin must also comply with Poggit's Plugin Submission Rules.
+      - https://github.com/poggit/support/blob/master/submit-rules.md
     4. Plugin must use libFormAPI (virion)
       - We recommend CaptchaAPI (virion) by CortexPE if you want to add Captchas to your plugin.
       - In the future, we will consider using a different forms library [#1]
@@ -50,7 +50,7 @@ If no improvements are made within '7' days, then the following events may occur
     - revocation of the user's status as a member of the Organization.
     - removal of the user's repositories from the Organization OR
     - transferral of the user's repositories on the Organization to their own account.
-Inactive users will also be revoked of their permissions.
+Inactive users may also be revoked of their permissions.
 ```
 
 <br>*Revision 1.2 - Janurary 1st, 2019.*
